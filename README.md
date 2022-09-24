@@ -2,7 +2,7 @@
 >Projeto final do curso "IoT e edge computing para iniciantes na prática com microbit e Arduino"
 * Seu funcionamento é bastante simples ao ser detectado presença de gás é acionado um alarme. 
 * O projeto foi dessenvolvido no site TinkerCad
-* Código texto em linguagem c
+* Código texto em linguagem c++
 ### Elementos Utilizados
 * Arduino Uno R3
 * Placa de ensaio pequena
